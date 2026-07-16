@@ -1,1 +1,4 @@
 .DS_Store
+
+# Decrypted plaintext of password-protected pages — never commit
+*.plain.html
